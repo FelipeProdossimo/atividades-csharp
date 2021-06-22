@@ -1,0 +1,9 @@
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\bin\Debug\CalcIMC.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\bin\Debug\CalcIMC.pdb
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\obj\Debug\CalcIMC.csprojAssemblyReference.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\obj\Debug\CalcIMC.Form1.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\obj\Debug\CalcIMC.Properties.Resources.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\obj\Debug\CalcIMC.csproj.GenerateResource.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\obj\Debug\CalcIMC.csproj.CoreCompileInputs.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\obj\Debug\CalcIMC.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\atividades-csharp\CalcIMC\obj\Debug\CalcIMC.pdb

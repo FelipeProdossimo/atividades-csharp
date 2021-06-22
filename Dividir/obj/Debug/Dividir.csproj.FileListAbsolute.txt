@@ -1,0 +1,9 @@
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\bin\Debug\Dividir.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\bin\Debug\Dividir.pdb
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\obj\Debug\Dividir.csprojAssemblyReference.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\obj\Debug\Dividir.FrmRestoDeDivisao.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\obj\Debug\Dividir.Properties.Resources.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\obj\Debug\Dividir.csproj.GenerateResource.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\obj\Debug\Dividir.csproj.CoreCompileInputs.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\obj\Debug\Dividir.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Dividir\obj\Debug\Dividir.pdb

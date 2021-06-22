@@ -1,0 +1,9 @@
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\bin\Debug\Empresa.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\bin\Debug\Empresa.pdb
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\obj\Debug\Empresa.Form1.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\obj\Debug\Empresa.Properties.Resources.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\obj\Debug\Empresa.csproj.GenerateResource.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\obj\Debug\Empresa.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\obj\Debug\Empresa.pdb
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Empresa\obj\Debug\Empresa.csprojAssemblyReference.cache
