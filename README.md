@@ -12,4 +12,5 @@
   * OiMundo
   * Restaurante
   * TrocaDeValores
+---
 | 1 | Arquivo Exercicios.sln |
