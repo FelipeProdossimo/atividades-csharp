@@ -1,0 +1,9 @@
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\bin\Debug\TrocaDeValores.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\obj\Debug\TrocaDeValores.csprojAssemblyReference.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\obj\Debug\TrocaDeValores.Form1.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\obj\Debug\TrocaDeValores.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\TrocaDeValores\obj\Debug\TrocaDeValores.pdb

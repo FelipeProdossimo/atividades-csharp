@@ -1,0 +1,9 @@
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\obj\Debug\Restaurante.frmRestaurante.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\Restaurante\obj\Debug\Restaurante.pdb
