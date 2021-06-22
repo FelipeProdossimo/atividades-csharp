@@ -1,0 +1,8 @@
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\bin\Debug\EstacionamentoIbira.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\bin\Debug\EstacionamentoIbira.pdb
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\obj\Debug\EstacionamentoIbira.frmIbira.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\obj\Debug\EstacionamentoIbira.Properties.Resources.resources
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\obj\Debug\EstacionamentoIbira.csproj.GenerateResource.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\obj\Debug\EstacionamentoIbira.csproj.CoreCompileInputs.cache
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\obj\Debug\EstacionamentoIbira.exe
+C:\Users\felipe.prodossimo\Desktop\curso-csharp\Exercicios\EstacionamentoIbira\obj\Debug\EstacionamentoIbira.pdb
